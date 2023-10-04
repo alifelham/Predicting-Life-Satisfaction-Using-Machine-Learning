@@ -29,7 +29,7 @@ pip install numpy pandas matplotlib scikit-learn seaborn missingno imbalanced-le
 ### Clone the Repository
 To get started, clone this repository to your local machine using the following command:
 ```bash
-git clone [REPO LINK]
+git clone https://github.com/alifelham/Predicting-Life-Satisfaction-Using-Machine-Learning.git
 ```
 Navigate to the cloned directory:
 
