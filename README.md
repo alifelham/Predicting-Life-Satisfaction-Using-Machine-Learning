@@ -15,3 +15,47 @@ To run the notebook, the following libraries are required. You can install them 
 ```bash
 pip install numpy pandas matplotlib scikit-learn seaborn missingno imbalanced-learn scikit-plot xgboost lightgbm
 
+```
+### Overview of Libraries
+- **[NumPy](https://numpy.org/) and [Pandas](https://pandas.pydata.org/)**: Employed for data manipulation and analysis.
+- **[Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)**: Utilized for creating static, animated, and interactive visualizations in Python.
+- **[Scikit-learn](https://scikit-learn.org/stable/)**: Applied for various machine learning models and data preprocessing.
+- **[Missingno](https://github.com/ResidentMario/missingno)**: Beneficial for visualizing missing data.
+- **[Imbalanced-learn](https://imbalanced-learn.org/stable/)**: Valuable for addressing imbalanced datasets through resampling techniques.
+- **[Scikit-plot](https://scikit-plot.readthedocs.io/en/stable/)**: Handy for visualizing machine learning results and metrics.
+- **[XGBoost](https://xgboost.readthedocs.io/en/latest/)**: Implemented for the XGBoost algorithm, an optimized gradient-boosting machine learning library.
+- **[LightGBM](https://lightgbm.readthedocs.io/en/latest/)**: Incorporated for utilizing the LightGBM algorithm, a gradient boosting framework that uses tree-based learning algorithms.
+
+### Clone the Repository
+To get started, clone this repository to your local machine using the following command:
+```bash
+git clone [REPO LINK]
+```
+Navigate to the cloned directory:
+
+```bash
+cd [REPO DIRECTORY]
+```
+
+### Launch Jupyter Notebook 
+Run the following command to start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+Navigate through the Jupyter Notebook interface in your browser to open the notebook.
+
+### Notebook Structure
+Our notebook is structured as follows:
+
+1. Data Importing and Preprocessing: Loading the dataset and performing initial preprocessing.
+2. Exploratory Data Analysis: Visualizations and summaries to understand the data.
+3. Model Building: Implementing machine learning models (Random Forest, Logistic Regression, etc.) and tuning their parameters.
+4. Model Evaluation: Evaluating model performance using various metrics.
+5. Results Visualization: Graphically representing the results obtained.
+6. Explainable AI: Used to interpret the results of the models.
+
+### Contributions
+Contributions and feedback are welcomed! Feel free to open an issue or create a pull request.
+
+### Acknowledgement
+A big thanks to our peers and reviewers for their valuable inputs. We would like to acknowledge our supervisors, Dr. Sifat Momen and Dr. Nabeel Mohammed for their patience and guidance during this research.
