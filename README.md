@@ -16,7 +16,7 @@ To run the notebook, the following libraries are required. You can install them 
 pip install numpy pandas matplotlib scikit-learn seaborn missingno imbalanced-learn scikit-plot xgboost lightgbm
 
 ```
-### Overview of Libraries
+## Overview of Libraries
 - **[NumPy](https://numpy.org/) and [Pandas](https://pandas.pydata.org/)**: Employed for data manipulation and analysis.
 - **[Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)**: Utilized for creating static, animated, and interactive visualizations in Python.
 - **[Scikit-learn](https://scikit-learn.org/stable/)**: Applied for various machine learning models and data preprocessing.
@@ -44,7 +44,7 @@ jupyter notebook
 ```
 Navigate through the Jupyter Notebook interface in your browser to open the notebook.
 
-### Notebook Structure
+## Notebook Structure
 Our notebook is structured as follows:
 
 1. Data Importing and Preprocessing: Loading the dataset and performing initial preprocessing.
@@ -54,8 +54,8 @@ Our notebook is structured as follows:
 5. Results Visualization: Graphically representing the results obtained.
 6. Explainable AI: Used to interpret the results of the models.
 
-### Contributions
+## Contributions
 Contributions and feedback are welcomed! Feel free to open an issue or create a pull request.
 
-### Acknowledgement
+## Acknowledgement
 A big thanks to our peers and reviewers for their valuable inputs. We would like to acknowledge our supervisors, Dr. Sifat Momen and Dr. Nabeel Mohammed for their patience and guidance during this research.
