@@ -44,6 +44,12 @@ jupyter notebook
 ```
 Navigate through the Jupyter Notebook interface in your browser to open the notebook.
 
+## Dataset
+Get the dataset from **[here](https://doi.org/10.5061/dryad.qd2nj)**
+
+### License of the Dataset 
+Licensed under a **[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license.](https://creativecommons.org/publicdomain/zero/1.0/)**
+
 ## Notebook Structure
 Our notebook is structured as follows:
 
