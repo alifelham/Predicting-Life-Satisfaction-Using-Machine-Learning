@@ -44,7 +44,13 @@ jupyter notebook
 ```
 Navigate through the Jupyter Notebook interface in your browser to open the notebook.
 
+### How to run
+- To use a custom dataset similar to the SHILD dataset, upload it in the same folder as then ipynb file.
+- There are several models included in the ipynb file itself, the user can choose to run any of them for testing purposes.
+- After uploading our pretrained model our obtained results can be reproduced.
+  
 ## Dataset
+* SHILD (Survey of Health Impairment and Living Conditions in Denmark): 
 Get the dataset from **[here](https://doi.org/10.5061/dryad.qd2nj)**
 
 ### License of the Dataset 
@@ -60,8 +66,17 @@ Our notebook is structured as follows:
 5. Results Visualization: Graphically representing the results obtained.
 6. Explainable AI: Used to interpret the results of the models.
 
-## Contributions
-Contributions and feedback are welcomed! Feel free to open an issue or create a pull request.
+
+## Contact Details of the Authors:
+Alif Elham Khan: alif.khan1@northsouth.edu
+
+Mohammad Junayed Hasan: mohammad.hasan5@northsouth.edu
+
+Humayra Anjum: humayra.anjum@northsouth.edu
+
+Dr. Nabeel Mohammad: nabeel.mohammed@northsouth.edu
+
+Dr. Sifat Momen: sifat.momen@northsouth.edu
 
 ## Acknowledgement
 A big thanks to our peers and reviewers for their valuable inputs. We would like to acknowledge our supervisors, Dr. Sifat Momen and Dr. Nabeel Mohammed for their patience and guidance during this research.
